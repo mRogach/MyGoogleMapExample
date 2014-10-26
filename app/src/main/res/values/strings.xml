@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyGoogleMapExample</string>
+        <string name="settings">Settings</string>
+        <string name="my_location">Show my location</string>
+
+        <string name="london">You are here</string>
+        <string name="london_snippet">A place where you are in this moment</string>
+
+        <string name="draw_line">Get directions</string>
+
+
+</resources>
